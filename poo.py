@@ -21,6 +21,5 @@ class Vehiculo:
     def get_kilometraje(self):
         return self.kilometraje
 
-    # Métodos Setter
     def set_kilometraje(self, nuevo_kilometraje):
         self.kilometraje = nuevo_kilometraje
